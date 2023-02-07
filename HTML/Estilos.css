@@ -1,0 +1,25 @@
+html {
+    font-size: 21px;}
+    body {
+         background-color: black;
+         color:white;
+} 
+strong {color: red;}
+em {color: aquamarine;}
+h2{color: rebeccapurple;}
+
+a {color: Red;}
+a:visited {color:brown}
+a:hover, a:active {Color: yellow}
+
+summary {color: royalblue}
+ mark {color: black;}
+
+ table, tr, td, th, caption {
+    border: 1px solid red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-collapse: collapse;
+    padding: 0.5rem;
+ }
+ ::placeholder{color: red;}
+ legend {color: royalblue;}
